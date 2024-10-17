@@ -1,6 +1,6 @@
 
 ##Bloom & Beyond
-Full stack ecommerce website
+Full stack e-commerce website
 
 ## Overview
 This project is a simple e-commerce website for selling flower bouquets, The main goal is to provide a user-friendly platform where customers can browse and purchase different types of bouquet online. T
@@ -16,7 +16,7 @@ This project is a simple e-commerce website for selling flower bouquets, The mai
 
 2.installitions:
    # Clone the repository
-   git clone https://github.com/ha2s/Bloom&Beyond.git
+   git clone https://github.com/ha2s/Bloom_Beyond.git
 
 
    # Install dependencies
