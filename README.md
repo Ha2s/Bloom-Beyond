@@ -1,46 +1,42 @@
 
-##Bloom & Beyond
+# Bloom & Beyond
 Full stack e-commerce website
 
 ## Overview
 This project is a simple e-commerce website for selling flower bouquets, The main goal is to provide a user-friendly platform where customers can browse and purchase different types of bouquet online. T
 
 ## Flow Chart
+![photo_1446-04-21 17 11 28](https://github.com/user-attachments/assets/c01e65ae-dda0-45c9-9760-e0f798333c33)
 
 
 ## Setup Instructions
 1. System Requirements:
    - Node.js 
    - MongoDB 
-   - React 
+   - React
 
-2.installitions:
-   # Clone the repository
+ # Clone the repository
    git clone https://github.com/ha2s/Bloom_Beyond.git
 
 
-   # Install dependencies
-   npm install
-
-3. Running the Project:
     
 
-
-
-Technologies Used
+## Technologies Used
 
  • React for frontend development
  • Node.js and Express for backend server
  • MongoDB for database management
  • Bootstrap for styling the frontend
 
-Screenshots
+## Screenshots
 
-  
+  ![photo_1446-04-21 17 11 45](https://github.com/user-attachments/assets/fac1b90f-662e-425d-b140-11f45d754907)
+![photo_1446-04-21 17 11 23](https://github.com/user-attachments/assets/86be1d72-a650-4d8c-ac5f-a1818178409b)
+![photo_1446-04-21 17 11 42](https://github.com/user-attachments/assets/ed464e91-dfb0-47ab-9a59-6ca015e3f90f)
+  ![photo_1446-04-21 17 11 31](https://github.com/user-attachments/assets/84028445-a467-4af6-9909-b7bea822a01c)
 
-  
 
-Future Work
+## Future Work
 
  • Implement user authentication and authorization.
  • Add payment gateway integration.
@@ -48,7 +44,7 @@ Future Work
  • Include more flower varieties and products.
 
 
-Team Members
+## Team Members
 
  • Hessa Albahlal 
  • Reema Alwahaiby
