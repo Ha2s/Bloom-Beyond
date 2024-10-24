@@ -10,12 +10,12 @@ This project is a simple e-commerce website for selling flower bouquets, The mai
 
 
 ## Setup Instructions
-1. System Requirements:
+System Requirements:
    - Node.js 
    - MongoDB 
    - React
 
- # Clone the repository
+## Clone the repository
    git clone https://github.com/ha2s/Bloom_Beyond.git
 
 
