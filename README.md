@@ -29,11 +29,11 @@ This project is a simple e-commerce website for selling flower bouquets, The mai
  • Bootstrap for styling the frontend
 
 ## Screenshots
-
+![IMAGE 1446-04-21 17:18:05](https://github.com/user-attachments/assets/95e254a5-facf-47e6-b32d-dd04c42c2ed9)
   ![photo_1446-04-21 17 11 45](https://github.com/user-attachments/assets/fac1b90f-662e-425d-b140-11f45d754907)
 ![photo_1446-04-21 17 11 23](https://github.com/user-attachments/assets/86be1d72-a650-4d8c-ac5f-a1818178409b)
 ![photo_1446-04-21 17 11 42](https://github.com/user-attachments/assets/ed464e91-dfb0-47ab-9a59-6ca015e3f90f)
-  ![photo_1446-04-21 17 11 31](https://github.com/user-attachments/assets/84028445-a467-4af6-9909-b7bea822a01c)
+
 
 
 ## Future Work
